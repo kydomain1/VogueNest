@@ -1,0 +1,348 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Article - VogueNest</title>
+    <link rel="stylesheet" href="styles.css">
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
+</head>
+<body>
+    <!-- Header -->
+    <header class="header">
+        <nav class="navbar">
+            <div class="nav-container">
+                <div class="logo">
+                    <img src="https://images.unsplash.com/photo-1611224923853-80b023f02d71?w=50&h=50&fit=crop&crop=center" alt="VogueNest Logo" class="logo-img">
+                    <span class="logo-text">VogueNest</span>
+                </div>
+                <ul class="nav-menu">
+                    <li><a href="index.html" class="nav-link">Home</a></li>
+                    <li class="dropdown">
+                        <a href="#" class="nav-link">Categories <i class="fas fa-chevron-down"></i></a>
+                        <ul class="dropdown-menu">
+                            <li><a href="category.html?cat=fashion">Fashion & Accessories</a></li>
+                            <li><a href="category.html?cat=beauty">Health & Beauty</a></li>
+                            <li><a href="category.html?cat=home">Home & Garden</a></li>
+                            <li><a href="category.html?cat=travel">Travel & Stay</a></li>
+                            <li><a href="category.html?cat=finance">Finance & Insurance</a></li>
+                            <li><a href="category.html?cat=food">Food & Beverage</a></li>
+                        </ul>
+                    </li>
+                    <li><a href="about.html" class="nav-link">About</a></li>
+                    <li><a href="contact.html" class="nav-link">Contact</a></li>
+                </ul>
+                <div class="search-container">
+                    <input type="text" placeholder="Search..." class="search-input">
+                    <button class="search-btn"><i class="fas fa-search"></i></button>
+                </div>
+                <div class="hamburger">
+                    <span></span>
+                    <span></span>
+                    <span></span>
+                </div>
+            </div>
+        </nav>
+    </header>
+
+    <!-- Article Content -->
+    <main class="article-main">
+        <div class="container">
+            <article class="article">
+                <div class="article-header">
+                    <div class="article-meta">
+                        <span class="article-category">Fashion</span>
+                        <span class="article-date">March 15, 2025</span>
+                        <span class="article-read-time">5 min read</span>
+                    </div>
+                    <h1 class="article-title">Spring Fashion Trends 2025: Pastel Perfection</h1>
+                    <div class="article-image">
+                        <img src="https://images.unsplash.com/photo-1445205170230-053b83016050?w=800&h=400&fit=crop" alt="Spring Fashion Trends" loading="lazy">
+                    </div>
+                </div>
+                <div class="article-body">
+                    <p>Spring 2025 brings a refreshing wave of pastel perfection to the fashion world. This season, designers are embracing soft, muted tones that evoke a sense of tranquility and sophistication. From delicate lavender to sage green, these gentle hues are transforming wardrobes into havens of calm elegance.</p>
+                    
+                    <h2>The Pastel Palette Revolution</h2>
+                    <p>This year's pastel trend goes beyond the traditional baby pink and mint green. We're seeing sophisticated combinations of dusty rose, powder blue, and soft peach that create a harmonious and modern aesthetic. These colors work beautifully together, allowing for effortless mix-and-match styling.</p>
+                    
+                    <img src="https://images.unsplash.com/photo-1469334031218-e382a71b716b?w=600&h=400&fit=crop" alt="Pastel Fashion Collection" class="article-image">
+                    
+                    <h2>Sustainable Materials Take Center Stage</h2>
+                    <p>What makes this season's pastel trend even more appealing is the focus on sustainable materials. Designers are incorporating organic cotton, bamboo fibers, and recycled polyester into their pastel collections, proving that style and sustainability can coexist beautifully.</p>
+                    
+                    <h2>Key Pieces to Invest In</h2>
+                    <ul>
+                        <li><strong>Pastel Blazers:</strong> A soft-hued blazer in sage or lavender adds instant sophistication to any outfit</li>
+                        <li><strong>Midi Dresses:</strong> Flowing midi dresses in pastel tones are perfect for both casual and formal occasions</li>
+                        <li><strong>Wide-Leg Trousers:</strong> Comfortable and stylish, these are a must-have for the modern wardrobe</li>
+                        <li><strong>Pastel Accessories:</strong> From handbags to shoes, accessories in soft tones complete the look</li>
+                    </ul>
+                    
+                    <img src="https://images.unsplash.com/photo-1515562141207-7a88fb7ce338?w=600&h=400&fit=crop" alt="Pastel Accessories" class="article-image">
+                    
+                    <h2>Styling Tips for Pastel Perfection</h2>
+                    <p>To master the pastel trend, consider these styling approaches:</p>
+                    <ol>
+                        <li><strong>Monochromatic Magic:</strong> Wear different shades of the same color for a cohesive look</li>
+                        <li><strong>Complementary Combinations:</strong> Pair pastels with neutral tones like beige or cream</li>
+                        <li><strong>Texture Play:</strong> Mix different textures to add depth to your pastel outfits</li>
+                        <li><strong>Accessory Accents:</strong> Use metallic accessories to add a touch of glamour</li>
+                    </ol>
+                    
+                    <p>This spring, embrace the pastel perfection trend and let these gentle hues bring a sense of peace and elegance to your wardrobe. Remember, fashion is about expressing your personality, so don't be afraid to experiment with different combinations until you find what works best for you.</p>
+                </div>
+            </article>
+            
+            <!-- Article Actions -->
+            <div class="article-actions">
+                <button class="action-btn like-btn" id="likeBtn">
+                    <i class="far fa-heart"></i>
+                    <span>24</span>
+                </button>
+                <button class="action-btn share-btn" id="shareBtn">
+                    <i class="fas fa-share"></i>
+                    Share
+                </button>
+                <button class="action-btn bookmark-btn" id="bookmarkBtn">
+                    <i class="far fa-bookmark"></i>
+                    Save
+                </button>
+            </div>
+            
+            <!-- Author Info -->
+            <div class="author-info">
+                <div class="author-avatar">
+                    <img src="https://images.unsplash.com/photo-1494790108755-2616b612b786?w=60&h=60&fit=crop&crop=face" alt="Author">
+                </div>
+                <div class="author-details">
+                    <h3>Sarah Johnson</h3>
+                    <p>Lifestyle Blogger & Fashion Enthusiast</p>
+                    <div class="author-social">
+                        <a href="#"><i class="fab fa-twitter"></i></a>
+                        <a href="#"><i class="fab fa-instagram"></i></a>
+                        <a href="#"><i class="fab fa-linkedin"></i></a>
+                    </div>
+                </div>
+            </div>
+            
+            <!-- Related Articles -->
+            <section class="related-articles">
+                <h2>Related Articles</h2>
+                <div class="related-grid">
+                    <article class="related-card">
+                        <div class="related-image">
+                            <img src="https://images.unsplash.com/photo-1469334031218-e382a71b716b?w=300&h=200&fit=crop" alt="Sustainable Fashion" loading="lazy">
+                        </div>
+                        <div class="related-content">
+                            <h3><a href="article.html?id=2">Sustainable Fashion: Building an Eco-Friendly Wardrobe</a></h3>
+                            <div class="related-meta">
+                                <span class="related-date">February 28, 2025</span>
+                                <span class="related-read-time">7 min read</span>
+                            </div>
+                        </div>
+                    </article>
+                    
+                    <article class="related-card">
+                        <div class="related-image">
+                            <img src="https://images.unsplash.com/photo-1515562141207-7a88fb7ce338?w=300&h=200&fit=crop" alt="Accessory Essentials" loading="lazy">
+                        </div>
+                        <div class="related-content">
+                            <h3><a href="article.html?id=3">Accessory Essentials: Must-Have Pieces for Every Season</a></h3>
+                            <div class="related-meta">
+                                <span class="related-date">January 20, 2025</span>
+                                <span class="related-read-time">6 min read</span>
+                            </div>
+                        </div>
+                    </article>
+                    
+                    <article class="related-card">
+                        <div class="related-image">
+                            <img src="https://images.unsplash.com/photo-1586023492125-27b2c045efd7?w=300&h=200&fit=crop" alt="Minimalist Home" loading="lazy">
+                        </div>
+                        <div class="related-content">
+                            <h3><a href="article.html?id=6">Minimalist Home Decor Ideas for Modern Living</a></h3>
+                            <div class="related-meta">
+                                <span class="related-date">April 10, 2025</span>
+                                <span class="related-read-time">6 min read</span>
+                            </div>
+                        </div>
+                    </article>
+                </div>
+            </section>
+            
+            <!-- Comments Section -->
+            <section class="comments-section">
+                <h2>Comments (3)</h2>
+                <div class="comments-list">
+                    <div class="comment">
+                        <div class="comment-avatar">
+                            <img src="https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=40&h=40&fit=crop&crop=face" alt="User">
+                        </div>
+                        <div class="comment-content">
+                            <div class="comment-header">
+                                <h4>Emma Wilson</h4>
+                                <span class="comment-date">2 days ago</span>
+                            </div>
+                            <p>This article is so helpful! I've been looking for sustainable fashion tips and this covers everything I needed to know.</p>
+                            <div class="comment-actions">
+                                <button class="comment-like"><i class="far fa-heart"></i> 5</button>
+                                <button class="comment-reply">Reply</button>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class="comment">
+                        <div class="comment-avatar">
+                            <img src="https://images.unsplash.com/photo-1438761681033-6461ffad8d80?w=40&h=40&fit=crop&crop=face" alt="User">
+                        </div>
+                        <div class="comment-content">
+                            <div class="comment-header">
+                                <h4>Lisa Chen</h4>
+                                <span class="comment-date">1 week ago</span>
+                            </div>
+                            <p>Love the minimalist approach! These tips are perfect for creating a timeless wardrobe.</p>
+                            <div class="comment-actions">
+                                <button class="comment-like"><i class="far fa-heart"></i> 3</button>
+                                <button class="comment-reply">Reply</button>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <!-- Add Comment Form -->
+                <form class="comment-form">
+                    <div class="comment-form-group">
+                        <textarea placeholder="Share your thoughts..." rows="4" required></textarea>
+                    </div>
+                    <div class="comment-form-actions">
+                        <button type="submit" class="submit-comment">Post Comment</button>
+                    </div>
+                </form>
+            </section>
+        </div>
+    </main>
+
+    <!-- Newsletter Section -->
+    <section class="newsletter">
+        <div class="container">
+            <div class="newsletter-content">
+                <h2>Stay Updated</h2>
+                <p>Subscribe to our newsletter for the latest trends and tips</p>
+                <form class="newsletter-form">
+                    <input type="email" placeholder="Enter your email" required>
+                    <button type="submit">Subscribe</button>
+                </form>
+            </div>
+        </div>
+    </section>
+
+    <!-- Footer -->
+    <footer class="footer">
+        <div class="container">
+            <div class="footer-content">
+                <div class="footer-section">
+                    <div class="logo">
+                        <img src="https://images.unsplash.com/photo-1611224923853-80b023f02d71?w=50&h=50&fit=crop&crop=center" alt="VogueNest Logo" class="logo-img">
+                        <span class="logo-text">VogueNest</span>
+                    </div>
+                    <p>Your ultimate destination for lifestyle inspiration and trends.</p>
+                    <div class="social-links">
+                        <a href="#"><i class="fab fa-facebook"></i></a>
+                        <a href="#"><i class="fab fa-instagram"></i></a>
+                        <a href="#"><i class="fab fa-twitter"></i></a>
+                        <a href="#"><i class="fab fa-pinterest"></i></a>
+                        <a href="#"><i class="fab fa-youtube"></i></a>
+                    </div>
+                </div>
+                <div class="footer-section">
+                    <h3>Categories</h3>
+                    <ul>
+                        <li><a href="category.html?cat=fashion">Fashion & Accessories</a></li>
+                        <li><a href="category.html?cat=beauty">Health & Beauty</a></li>
+                        <li><a href="category.html?cat=home">Home & Garden</a></li>
+                        <li><a href="category.html?cat=travel">Travel & Stay</a></li>
+                        <li><a href="category.html?cat=finance">Finance & Insurance</a></li>
+                        <li><a href="category.html?cat=food">Food & Beverage</a></li>
+                    </ul>
+                </div>
+                <div class="footer-section">
+                    <h3>Quick Links</h3>
+                    <ul>
+                        <li><a href="about.html">About Us</a></li>
+                        <li><a href="contact.html">Contact</a></li>
+                        <li><a href="#">Privacy Policy</a></li>
+                        <li><a href="#">Terms of Service</a></li>
+                    </ul>
+                </div>
+                <div class="footer-section">
+                    <h3>Contact Info</h3>
+                    <p><i class="fas fa-envelope"></i> hello@voguenest.com</p>
+                    <p><i class="fas fa-phone"></i> +1 (555) 123-4567</p>
+                    <p><i class="fas fa-map-marker-alt"></i> New York, NY</p>
+                </div>
+            </div>
+            <div class="footer-bottom">
+                <p>&copy; 2025 VogueNest. All rights reserved.</p>
+            </div>
+        </div>
+    </footer>
+
+    <script src="script.js"></script>
+    <script>
+        // Simple article actions
+        document.addEventListener('DOMContentLoaded', function() {
+            const likeBtn = document.getElementById('likeBtn');
+            const shareBtn = document.getElementById('shareBtn');
+            const bookmarkBtn = document.getElementById('bookmarkBtn');
+            
+            // Like functionality
+            if (likeBtn) {
+                likeBtn.addEventListener('click', function() {
+                    this.classList.toggle('liked');
+                    const icon = this.querySelector('i');
+                    const count = this.querySelector('span');
+                    
+                    if (this.classList.contains('liked')) {
+                        icon.className = 'fas fa-heart';
+                        count.textContent = parseInt(count.textContent) + 1;
+                    } else {
+                        icon.className = 'far fa-heart';
+                        count.textContent = parseInt(count.textContent) - 1;
+                    }
+                });
+            }
+            
+            // Share functionality
+            if (shareBtn) {
+                shareBtn.addEventListener('click', function() {
+                    if (navigator.share) {
+                        navigator.share({
+                            title: document.title,
+                            url: window.location.href
+                        });
+                    } else {
+                        navigator.clipboard.writeText(window.location.href);
+                        alert('Link copied to clipboard!');
+                    }
+                });
+            }
+            
+            // Bookmark functionality
+            if (bookmarkBtn) {
+                bookmarkBtn.addEventListener('click', function() {
+                    this.classList.toggle('bookmarked');
+                    const icon = this.querySelector('i');
+                    
+                    if (this.classList.contains('bookmarked')) {
+                        icon.className = 'fas fa-bookmark';
+                    } else {
+                        icon.className = 'far fa-bookmark';
+                    }
+                });
+            }
+        });
+    </script>
+</body>
+</html>
