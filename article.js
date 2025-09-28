@@ -696,7 +696,7 @@ const articleData = {
             <h2>Kids' Menu with Latin Flair</h2>
             <p>Even our youngest passengers can enjoy the flavors of Latin America. <a href="https://www.linkhaitao.com/index.php?mod=lhdeal&track=a0c8bJ_aL40th4c2q7czYjCS6TWvGKKDcj2IkIissWD6reQGUj7X46562IXIz94uT0ds3d1d0vFJ4web0few_c&new=http%3A%2F%2Fwww.latamairlines.com%2Fus%2Fen" target="_blank" rel="noopener noreferrer">LATAM Airlines</a> offers child-friendly versions of traditional dishes, introducing young travelers to the diverse tastes of our continent.</p>
             
-            <img src="https://images.unsplash.com/photo-1567620905732-2d1ec7ab7445?w=600&h=400&fit=crop" alt="LATAM Airlines Family Dining Experience" class="article-image">
+            <img src="images/5.png" alt="LATAM Airlines Family Dining Experience" class="article-image">
             
             <h2>Booking Your Culinary Journey</h2>
             <p>Ready to experience the authentic flavors of Latin America in the sky? <a href="https://www.linkhaitao.com/index.php?mod=lhdeal&track=a0c8bJ_aL40th4c2q7czYjCS6TWvGKKDcj2IkIissWD6reQGUj7X46562IXIz94uT0ds3d1d0vFJ4web0few_c&new=http%3A%2F%2Fwww.latamairlines.com%2Fus%2Fen" target="_blank" rel="noopener noreferrer">LATAM Airlines</a> makes it easy to plan your gastronomic adventure. Book your flight and prepare to discover why food is such an integral part of Latin American culture.</p>
