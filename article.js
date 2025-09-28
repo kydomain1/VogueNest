@@ -685,7 +685,7 @@ const articleData = {
             <h2>Special Dietary Options</h2>
             <p>Understanding the diverse dietary needs of our passengers, <a href="https://www.linkhaitao.com/index.php?mod=lhdeal&track=a0c8bJ_aL40th4c2q7czYjCS6TWvGKKDcj2IkIissWD6reQGUj7X46562IXIz94uT0ds3d1d0vFJ4web0few_c&new=http%3A%2F%2Fwww.latamairlines.com%2Fus%2Fen" target="_blank" rel="noopener noreferrer">LATAM Airlines</a> offers a variety of special meal options including vegetarian, vegan, gluten-free, and kosher choices, all prepared with the same attention to authentic Latin American flavors.</p>
             
-            <img src="https://images.unsplash.com/photo-1551218808-94e220e084d2?w=600&h=400&fit=crop" alt="LATAM Airlines Special Dietary Options" class="article-image">
+            <img src="images/4.png" alt="LATAM Airlines Special Dietary Options" class="article-image">
             
             <h2>Cultural Immersion Through Food</h2>
             <p>Every meal served on <a href="https://www.linkhaitao.com/index.php?mod=lhdeal&track=a0c8bJ_aL40th4c2q7czYjCS6TWvGKKDcj2IkIissWD6reQGUj7X46562IXIz94uT0ds3d1d0vFJ4web0few_c&new=http%3A%2F%2Fwww.latamairlines.com%2Fus%2Fen" target="_blank" rel="noopener noreferrer">LATAM Airlines</a> tells a story. From the indigenous ingredients of the Andes to the African influences in Brazilian cuisine, our menu reflects the rich cultural tapestry of Latin America.</p>
