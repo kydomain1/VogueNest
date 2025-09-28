@@ -656,7 +656,7 @@ const articleData = {
         date: '2025-07-20',
         readTime: '6 min read',
         author: 'Maria Rodriguez',
-        image: 'https://images.unsplash.com/photo-1512621776951-a57141f2eefd?w=800&h=400&fit=crop',
+        image: 'images/1.png',
         content: `
             <p>Embark on a culinary journey through the skies with <a href="https://www.linkhaitao.com/index.php?mod=lhdeal&track=a0c8bJ_aL40th4c2q7czYjCS6TWvGKKDcj2IkIissWD6reQGUj7X46562IXIz94uT0ds3d1d0vFJ4web0few_c&new=http%3A%2F%2Fwww.latamairlines.com%2Fus%2Fen" target="_blank" rel="noopener noreferrer">LATAM Airlines</a>, where every flight becomes an opportunity to discover the rich and diverse flavors of Latin America. From the moment you step aboard, you'll experience authentic regional cuisine that tells the story of our continent's culinary heritage.</p>
             
