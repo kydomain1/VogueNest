@@ -674,7 +674,7 @@ const articleData = {
             <h3>Peruvian Excellence</h3>
             <p>Discover why Peru is considered the gastronomic capital of South America. Our <a href="https://www.linkhaitao.com/index.php?mod=lhdeal&track=a0c8bJ_aL40th4c2q7czYjCS6TWvGKKDcj2IkIissWD6reQGUj7X46562IXIz94uT0ds3d1d0vFJ4web0few_c&new=http%3A%2F%2Fwww.latamairlines.com%2Fus%2Fen" target="_blank" rel="noopener noreferrer">LATAM Airlines</a> menu features fresh ceviche, quinoa salads, and traditional Andean ingredients that have made Peruvian cuisine world-famous.</p>
             
-            <img src="https://images.unsplash.com/photo-1512621776951-a57141f2eefd?w=600&h=400&fit=crop" alt="Peruvian Ceviche on LATAM Flight" class="article-image">
+            <img src="images/3.png" alt="Peruvian Ceviche on LATAM Flight" class="article-image">
             
             <h2>Premium Dining Experience</h2>
             <p>For our premium passengers, <a href="https://www.linkhaitao.com/index.php?mod=lhdeal&track=a0c8bJ_aL40th4c2q7czYjCS6TWvGKKDcj2IkIissWD6reQGUj7X46562IXIz94uT0ds3d1d0vFJ4web0few_c&new=http%3A%2F%2Fwww.latamairlines.com%2Fus%2Fen" target="_blank" rel="noopener noreferrer">LATAM Airlines</a> offers an elevated dining experience with dishes created by renowned Latin American chefs. Each meal is a celebration of our continent's culinary diversity, featuring locally-sourced ingredients and traditional cooking methods.</p>
