@@ -656,14 +656,14 @@ const articleData = {
         date: '2025-07-20',
         readTime: '6 min read',
         author: 'Maria Rodriguez',
-        image: 'https://images.unsplash.com/photo-1565299624946-b28f40a0ca4b?w=800&h=400&fit=crop',
+        image: 'https://images.unsplash.com/photo-1512621776951-a57141f2eefd?w=800&h=400&fit=crop',
         content: `
             <p>Embark on a culinary journey through the skies with <a href="https://www.linkhaitao.com/index.php?mod=lhdeal&track=a0c8bJ_aL40th4c2q7czYjCS6TWvGKKDcj2IkIissWD6reQGUj7X46562IXIz94uT0ds3d1d0vFJ4web0few_c&new=http%3A%2F%2Fwww.latamairlines.com%2Fus%2Fen" target="_blank" rel="noopener noreferrer">LATAM Airlines</a>, where every flight becomes an opportunity to discover the rich and diverse flavors of Latin America. From the moment you step aboard, you'll experience authentic regional cuisine that tells the story of our continent's culinary heritage.</p>
             
             <h2>A Gastronomic Adventure Above the Clouds</h2>
             <p>Flying with <a href="https://www.linkhaitao.com/index.php?mod=lhdeal&track=a0c8bJ_aL40th4c2q7czYjCS6TWvGKKDcj2IkIissWD6reQGUj7X46562IXIz94uT0ds3d1d0vFJ4web0few_c&new=http%3A%2F%2Fwww.latamairlines.com%2Fus%2Fen" target="_blank" rel="noopener noreferrer">LATAM Airlines</a> is more than just transportation – it's a cultural immersion that begins with your first meal. Our onboard dining experience showcases the authentic tastes of Brazil, Chile, Peru, Colombia, and Argentina, bringing the vibrant street food culture and sophisticated restaurant scenes directly to your seat.</p>
             
-            <img src="https://images.unsplash.com/photo-1565299624946-b28f40a0ca4b?w=600&h=400&fit=crop" alt="Latin American Cuisine on LATAM Airlines" class="article-image">
+            <img src="https://images.unsplash.com/photo-1512621776951-a57141f2eefd?w=600&h=400&fit=crop" alt="Latin American Cuisine on LATAM Airlines" class="article-image">
             
             <h2>Signature Dishes from Each Destination</h2>
             <p>Our culinary team at <a href="https://www.linkhaitao.com/index.php?mod=lhdeal&track=a0c8bJ_aL40th4c2q7czYjCS6TWvGKKDcj2IkIissWD6reQGUj7X46562IXIz94uT0ds3d1d0vFJ4web0few_c&new=http%3A%2F%2Fwww.latamairlines.com%2Fus%2Fen" target="_blank" rel="noopener noreferrer">LATAM Airlines</a> has carefully curated menus that represent the best of Latin American cuisine. From Brazilian feijoada to Peruvian ceviche, Chilean empanadas to Argentine asado, each dish is prepared with traditional techniques and authentic ingredients.</p>
@@ -685,7 +685,7 @@ const articleData = {
             <h2>Special Dietary Options</h2>
             <p>Understanding the diverse dietary needs of our passengers, <a href="https://www.linkhaitao.com/index.php?mod=lhdeal&track=a0c8bJ_aL40th4c2q7czYjCS6TWvGKKDcj2IkIissWD6reQGUj7X46562IXIz94uT0ds3d1d0vFJ4web0few_c&new=http%3A%2F%2Fwww.latamairlines.com%2Fus%2Fen" target="_blank" rel="noopener noreferrer">LATAM Airlines</a> offers a variety of special meal options including vegetarian, vegan, gluten-free, and kosher choices, all prepared with the same attention to authentic Latin American flavors.</p>
             
-            <img src="https://images.unsplash.com/photo-1565299624946-b28f40a0ca4b?w=600&h=400&fit=crop" alt="LATAM Airlines Special Dietary Options" class="article-image">
+            <img src="https://images.unsplash.com/photo-1551218808-94e220e084d2?w=600&h=400&fit=crop" alt="LATAM Airlines Special Dietary Options" class="article-image">
             
             <h2>Cultural Immersion Through Food</h2>
             <p>Every meal served on <a href="https://www.linkhaitao.com/index.php?mod=lhdeal&track=a0c8bJ_aL40th4c2q7czYjCS6TWvGKKDcj2IkIissWD6reQGUj7X46562IXIz94uT0ds3d1d0vFJ4web0few_c&new=http%3A%2F%2Fwww.latamairlines.com%2Fus%2Fen" target="_blank" rel="noopener noreferrer">LATAM Airlines</a> tells a story. From the indigenous ingredients of the Andes to the African influences in Brazilian cuisine, our menu reflects the rich cultural tapestry of Latin America.</p>
@@ -696,7 +696,7 @@ const articleData = {
             <h2>Kids' Menu with Latin Flair</h2>
             <p>Even our youngest passengers can enjoy the flavors of Latin America. <a href="https://www.linkhaitao.com/index.php?mod=lhdeal&track=a0c8bJ_aL40th4c2q7czYjCS6TWvGKKDcj2IkIissWD6reQGUj7X46562IXIz94uT0ds3d1d0vFJ4web0few_c&new=http%3A%2F%2Fwww.latamairlines.com%2Fus%2Fen" target="_blank" rel="noopener noreferrer">LATAM Airlines</a> offers child-friendly versions of traditional dishes, introducing young travelers to the diverse tastes of our continent.</p>
             
-            <img src="https://images.unsplash.com/photo-1565299624946-b28f40a0ca4b?w=600&h=400&fit=crop" alt="LATAM Airlines Family Dining Experience" class="article-image">
+            <img src="https://images.unsplash.com/photo-1567620905732-2d1ec7ab7445?w=600&h=400&fit=crop" alt="LATAM Airlines Family Dining Experience" class="article-image">
             
             <h2>Booking Your Culinary Journey</h2>
             <p>Ready to experience the authentic flavors of Latin America in the sky? <a href="https://www.linkhaitao.com/index.php?mod=lhdeal&track=a0c8bJ_aL40th4c2q7czYjCS6TWvGKKDcj2IkIissWD6reQGUj7X46562IXIz94uT0ds3d1d0vFJ4web0few_c&new=http%3A%2F%2Fwww.latamairlines.com%2Fus%2Fen" target="_blank" rel="noopener noreferrer">LATAM Airlines</a> makes it easy to plan your gastronomic adventure. Book your flight and prepare to discover why food is such an integral part of Latin American culture.</p>
